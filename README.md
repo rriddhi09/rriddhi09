@@ -73,7 +73,7 @@ A Splitwise-inspired application focused on simplifying group expense management
 - Secure REST API development.
 - Group and expense management.
 
-🔗 **Repository:** ADD_YOUR_SPLITSMART_REPOSITORY_URL
+🔗 🔗 <a href="https://github.com/rriddhi09/SplitSmart">View Repository</a>
 
 ### 02. Unified Interview Platform
 
@@ -136,14 +136,22 @@ An inventory management platform designed to streamline business inventory opera
 
 ---
 
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/rriddhi09">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/riddhi-rathod-150815307">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
+<p align="center">
+  <i>Curious mind. Passion for technology. Always building something new.</i>
+</p>
 <p align="center">
   <i>Curious mind. Passion for technology. Always building something new.</i>
 </p>
