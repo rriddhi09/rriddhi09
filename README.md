@@ -11,10 +11,6 @@
   Exploring technology, building applications, and turning ideas into working software.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rriddhi09&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🎓 Background & Technical Interests
